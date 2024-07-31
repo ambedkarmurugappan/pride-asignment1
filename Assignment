@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+
+<head>
+
+<title> AK56 </title>
+
+<style>
+
+h1{ color: yellow;
+}
+</style>
+
+</head>
+
+<body style="background-color:black">
+
+<pre style="background-color:gray">
+ 
+<p > <h1 style="background-color:gray">                                        REGISTRATION FORM</h1> </P> 
+
+<h3> 
+<p height=700px width=400px style="background-color:gray">
+                              Name        : <input type="text" name="first name" placeholder="First Name">     <input type="text" name="last name" placeholder="Second Name">
+<br>
+
+                              Age         : <input type="text" name="age">
+<br>
+
+                              DOB         : <input type="text" name="dob" placeholder="dd\mm\yyyy">
+<br>
+                              Gender      : <input type="radio" name = "Male" value = "on"> Female  <input type="radio" name = "HTML" value = "on"> Male
+<br>
+                              Address     : <input type="text" name="address">
+<br>
+
+                              Mobile No.  : <input type="text" name="mobile no." placeholder="+91/">
+<br>
+
+                              Mail Id     : <input type="text" name="Mail Id">
+<br>
+                              Create Password  : <input type="text" name="password">     Reapet Password  : <input type="text" name="password">
+<br>
+<br>
+                                                                        <input type="submit" name="submit" value="submit" />   
+
+</h3>
+                     <input type="checkbox">i am agree with  <a href="terms and condition">terms and conditions</a>
+
+    <p>                      Have an Account? <a href="#">Log in</a></p>
+   </pre>
+</p>
+</body>
+</html>
